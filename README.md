@@ -350,6 +350,6 @@ Each appearance is a deliberate re-ask using that section's specific framing or 
 
 ## Author
 
-Built by [Your Name](https://github.com/your-username)
+Built by [Fuad Haque](https://github.com/Fuad-Haque)
 
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/Fuad-Haque)
