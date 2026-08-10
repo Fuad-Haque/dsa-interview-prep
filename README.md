@@ -23,7 +23,7 @@
 
 The goal isn't to jump to the hardest-sounding question first — it's to climb the ladder concept by concept, confirming the fundamentals before layering on the LLM/backend-infra concepts (15–19) that show up specifically in AI-infrastructure loops.
 
-**Repository** → [github.com/your-username/dsa-interview-prep](https://github.com/your-username/dsa-interview-prep)
+**Repository** → [github.com/your-username/dsa-interview-prep](https://github.com/Fuad-Haque/dsa-interview-prep)
 
 ---
 
